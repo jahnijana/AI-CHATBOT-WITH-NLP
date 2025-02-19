@@ -50,4 +50,18 @@ spaCy: Best for production-level, fast, and efficient NLP tasks.
 
 #output
 
+Chatbot: Hi! I am your virtual assistant. Type 'exit' to end the conversation.
+You: Hi
+Chatbot: How can I assist you today?
+
+You: Thank you
+Chatbot: Happy to help!
+
+You: Goodbye
+Chatbot: Goodbye! Have a nice day!
+
+You: exit
+Chatbot: Goodbye! Have a nice day!
+
+
 
