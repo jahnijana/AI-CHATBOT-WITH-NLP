@@ -14,10 +14,10 @@ MENTOR:NEELA SANTHOSH
 
 # Description
 
-" 1. NLTK (Natural Language Toolkit): "
+# 1. NLTK (Natural Language Toolkit): 
 NLTK is a widely-used library for NLP in Python, especially useful for educational purposes. It provides tools for text processing, including tokenization, part-of-speech tagging, and named entity recognition (NER), among many other things.
 
-* Limitations: *
+ Limitations: 
 
 - Performance: It’s slower compared to spaCy for large-scale tasks like parsing or named entity recognition (NER).
 - Not Optimized for Production: NLTK's algorithms are not always the fastest or most efficient, so it’s less ideal for production systems that need speed.
